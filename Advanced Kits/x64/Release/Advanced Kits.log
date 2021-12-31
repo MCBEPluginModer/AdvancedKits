@@ -1,0 +1,17 @@
+﻿  dllmain.cpp
+D:\Advanced Kits\Advanced Kits\dllmain.cpp(5,1): warning C4005: _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING: изменение макроопределения
+D:\Advanced Kits\Advanced Kits\dllmain.cpp : message : см. предыдущее определение "_SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING"
+  Defining YAML_CPP_API for DLL import
+D:\Advanced Kits\Advanced Kits\dllmain.cpp(881,24): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Advanced Kits\Advanced Kits\dllmain.cpp(893,12): warning C4244: return: преобразование "time_t" в "unsigned long", возможна потеря данных
+D:\Advanced Kits\Advanced Kits\dllmain.cpp(900,16): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Advanced Kits\Advanced Kits\dllmain.cpp(973,32): warning C4101: t3: неиспользованная локальная переменная
+D:\Advanced Kits\Advanced Kits\dllmain.cpp(1424,36): warning C4101: t3: неиспользованная локальная переменная
+     Создается библиотека D:\Advanced Kits\x64\Release\Advanced Kits.lib и объект D:\Advanced Kits\x64\Release\Advanced Kits.exp
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  2 of 2299 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Advanced Kits.vcxproj -> D:\Advanced Kits\x64\Release\Advanced Kits.dll
